@@ -1,0 +1,12 @@
+{
+  "name": "web-extension",
+  "version": "1.0.0",
+  "description": "A boilerplate for a web extension",
+  "main": "index.js",
+  "author": "Curtis Rodgers",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/C-Rodg/Web-Extension-Boilerplate.git"
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+
+    "name": "web-extension",
+    "version": "0.0.1",
+    "discription": "Boilerplate for a web extension",
+    "author": "Curtis Rodgers",
+
+    "permissions": [
+        "activeTab"
+    ],
+
+    "browser_action": {
+        "browser_style": true,
+        "default_title": "View the links in this page",
+        "default_popup": "popup.html",
+        "default_icon": "images/icon32.png"
+    }
+}
