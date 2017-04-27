@@ -3,7 +3,7 @@
 
     "name": "web-extension",
     "version": "0.0.1",
-    "discription": "Boilerplate for a web extension",
+    "description": "Boilerplate for a web extension",
     "author": "Curtis Rodgers",
 
     "permissions": [

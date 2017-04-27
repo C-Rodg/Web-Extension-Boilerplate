@@ -4,7 +4,6 @@
     anchors.forEach((a) => {
         as.push({
             href: a.href,
-            rel: a.rel,
             text: a.textContent
         });
     });
